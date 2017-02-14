@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">McCann FitzGerald</string>
+    <string name="textview">Welcome to McCann FitzGerald - Ireland\'s leading law firm</string>
+    <string name="business_development">Business Development</string>
+    <string name="about_us">About Us</string>
+    <string name="it_support">IT Support</string>
+    <string name="info">The McCann FitzGerald IT Support Desk operates from 8am - 10:15pm Monday to Friday. There is an
+    on call service answering urgent calls on Saturday and Sunday from 9.15am - 5:30pm. Please email help@mcf.ie.
+    To submit a support case please click on the below button</string>
+    <string name="buttonSend">Send</string>
+    <string name="textviewTo">To</string>
+    <string name="textviewSubject">Subject</string>
+    <string name="bdgAbout">The Business Development Group at McCann FitzGerald looks after all of our clients business needs.
+    We pride ourselves on our first class client service. We can provide state of the art facilities to clients hosting, informal meetings to formal and mediation events.
+        The group is also at the forefront of the MCF Trainee\'s scheme. For more information please call us.
+    </string>
+    <string name="websiteBtn">Call Us </string>
+
+</resources>
